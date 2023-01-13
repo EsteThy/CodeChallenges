@@ -21,3 +21,4 @@ function century(year) {
     return(firstHalf +=1)
   }
 }
+century(2023)
